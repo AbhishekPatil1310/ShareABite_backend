@@ -5,9 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon --legacy-watch server.js",
-    "start": "nodemon server.js",
-    "lint": "eslint . --ext .js",
-    "format": "prettier --write \"src/**/*.js\""
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -29,7 +27,7 @@
     "fastify-sensible": "^3.1.2",
     "mongoose": "^8.16.1",
     "nodemailer": "^7.0.5",
-    "nodemon": "^3.1.10",
+    "nodemon": "^3.1.10"
   },
   "devDependencies": {
     "eslint": "^9.30.0",
