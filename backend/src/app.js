@@ -23,7 +23,10 @@ function buildApp() {
     'https://advestor-frontend-wlaf1c02c-abhisheks-projects-680a2fd9.vercel.app',
     'https://advestor-frontend.vercel.app',
       'https://patil-project.vercel.app',
-    'https://advestor-frontend.vercel.app'
+    'https://advestor-frontend.vercel.app',
+    'https://share-a-bite-frontend-ebon.vercel.app',
+    'https://share-a-bite-frontend-git-main-abhisheks-projects-680a2fd9.vercel.app',
+    'https://share-a-bite-frontend-pslynrai0-abhisheks-projects-680a2fd9.vercel.app'
   ].filter(Boolean); 
 
   // Register fastify-cors
