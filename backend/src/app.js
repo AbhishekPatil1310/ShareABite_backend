@@ -27,7 +27,8 @@ function buildApp() {
     'https://share-a-bite-frontend-ebon.vercel.app',
     'https://share-a-bite-frontend-git-main-abhisheks-projects-680a2fd9.vercel.app',
     'https://share-a-bite-frontend-pslynrai0-abhisheks-projects-680a2fd9.vercel.app',
-    'https://share-a-bite-frontend-3f7jympdo-abhisheks-projects-680a2fd9.vercel.app'
+    'https://share-a-bite-frontend-3f7jympdo-abhisheks-projects-680a2fd9.vercel.app',
+    'https://share-a-bite-frontend-7dgfzdnpl-abhisheks-projects-680a2fd9.vercel.app/'
   ].filter(Boolean); 
 
   // Register fastify-cors
