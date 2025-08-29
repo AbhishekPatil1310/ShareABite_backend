@@ -10,7 +10,7 @@ const transporter = nodemailer.createTransport({
 
 async function sendMail({ to, subject, html }) {
   const mailOptions = {
-    from: `"RM&R(no-reply)" <${process.env.EMAIL_USER}>`,
+    from: `"ShareABite(no-reply)" <${process.env.EMAIL_USER}>`,
     to,
     subject,
     html,
@@ -27,3 +27,4 @@ async function sendMail({ to, subject, html }) {
 }
 
 module.exports = { sendMail };
+
